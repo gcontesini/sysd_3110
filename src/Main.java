@@ -8,7 +8,7 @@ public class Main {
 
         addressBook.addBuddy("Alice", 1234567);
         addressBook.addBuddy("Bob", 7654321);
-
+        addressBook.addBuddy("Charlie", 23456789);
         addressBook.printAddressBook();
 
     }
